@@ -10,6 +10,7 @@ header img {
     justify-content: center;
     flex-wrap: wrap;
     padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .box-btn {
@@ -17,7 +18,7 @@ header img {
 }
 
 .btn-navbar {
-    padding: 20px;
+    padding: 14px;
     border-radius: 23px;
     font-size: 26px;
     width: 250px;
@@ -43,39 +44,44 @@ header img {
     background-color: #94bfd3;
 }
 
-/* Tablet */
+
 @media (max-width: 992px) {
     .btn-navbar {
         width: 180px;
-        padding: 16px;
+        padding: 14px;
         font-size: 20px;
     }
 }
 
-/* Celular */
 @media (max-width: 768px) {
     .navbar-principal {
-        flex-direction: column;
-        align-items: center;
+        display: block; 
+        text-align: center; 
+        padding: 10px 0;
     }
 
     .box-btn {
-        width: 90%;
-        margin: 5px 0;
+        display: inline-block; 
+        width: 45%; 
+        margin: 5px;
     }
 
     .btn-navbar {
-        width: 100%;
-        padding: 14px;
-        font-size: 18px;
+        width: 100%; 
+        padding: 10px 5px;
+        font-size: 16px;
         border-radius: 15px;
     }
 }
 
-/* Celulares pequenos */
 @media (max-width: 480px) {
+    .box-btn {
+        width: 46%; 
+        margin: 5px;
+    }
+
     .btn-navbar {
-        font-size: 16px;
-        padding: 12px;
+        font-size: 13px;
+        padding: 6px 2px;
     }  
 }

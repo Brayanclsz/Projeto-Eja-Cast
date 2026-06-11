@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\img\\banner4.png"
     },
     {
+      "Id": "C:\\Users\\matheus.feitosa\\Documents\\Bradesco\\Eja\\projeto-ejacast\\wwwroot\\img\\banner4_old.png",
+      "PackagePath": "staticwebassets\\img\\banner4_old.png"
+    },
+    {
       "Id": "C:\\Users\\matheus.feitosa\\Documents\\Bradesco\\Eja\\projeto-ejacast\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

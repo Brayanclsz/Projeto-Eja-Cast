@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pIUM8PwdwpXGRaq2FU6yMf5pcncXFI7SbVHzqiFZB3Q=",
+  "Hash": "eBy0Ho+vQqJz87qX3R7Ji7VX0HSe6e68C71UCQdRNgo=",
   "Source": "ProjetoEjaCast",
   "BasePath": "_content/ProjetoEjaCast",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hblnrv21dd",
-      "Integrity": "U/1zANi9xQWZfIdpqCGCO0xxrr8MPAG+4X4zUeIFY8E=",
+      "Fingerprint": "ynkn04vu1l",
+      "Integrity": "Xsh+EJmoRrUKQ1kxQ+KimokQcWesov9nR5AUTGVvFq4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\layout.css"
@@ -164,6 +164,27 @@
       "OriginalItemSpec": "wwwroot\\img\\banner3.png"
     },
     {
+      "Identity": "C:\\Users\\matheus.feitosa\\Documents\\Bradesco\\Eja\\projeto-ejacast\\wwwroot\\img\\banner4_old.png",
+      "SourceId": "ProjetoEjaCast",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matheus.feitosa\\Documents\\Bradesco\\Eja\\projeto-ejacast\\wwwroot\\",
+      "BasePath": "_content/ProjetoEjaCast",
+      "RelativePath": "img/banner4_old#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "patirqnqn3",
+      "Integrity": "0fc1c30y84Y3narnjhe7OqRL9hF8dCA+aVnKK9ZxO9Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\banner4_old.png"
+    },
+    {
       "Identity": "C:\\Users\\matheus.feitosa\\Documents\\Bradesco\\Eja\\projeto-ejacast\\wwwroot\\img\\banner4.png",
       "SourceId": "ProjetoEjaCast",
       "SourceType": "Discovered",
@@ -178,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "patirqnqn3",
-      "Integrity": "0fc1c30y84Y3narnjhe7OqRL9hF8dCA+aVnKK9ZxO9Q=",
+      "Fingerprint": "6blfintzt3",
+      "Integrity": "ordtzMob0WwymDV8BVP02rpScpZNqtYGZZi37qNPqAU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\banner4.png"
@@ -1415,7 +1436,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "581"
+          "Value": "2540"
         },
         {
           "Name": "Content-Type",
@@ -1423,11 +1444,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"U/1zANi9xQWZfIdpqCGCO0xxrr8MPAG+4X4zUeIFY8E=\""
+          "Value": "\"Xsh+EJmoRrUKQ1kxQ+KimokQcWesov9nR5AUTGVvFq4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 11 Jun 2026 18:38:03 GMT"
+          "Value": "Thu, 11 Jun 2026 20:08:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1437,12 +1458,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-U/1zANi9xQWZfIdpqCGCO0xxrr8MPAG+4X4zUeIFY8E="
+          "Value": "sha256-Xsh+EJmoRrUKQ1kxQ+KimokQcWesov9nR5AUTGVvFq4="
         }
       ]
     },
     {
-      "Route": "css/layout.hblnrv21dd.css",
+      "Route": "css/layout.ynkn04vu1l.css",
       "AssetFile": "C:\\Users\\matheus.feitosa\\Documents\\Bradesco\\Eja\\projeto-ejacast\\wwwroot\\css\\layout.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1452,7 +1473,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "581"
+          "Value": "2540"
         },
         {
           "Name": "Content-Type",
@@ -1460,11 +1481,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"U/1zANi9xQWZfIdpqCGCO0xxrr8MPAG+4X4zUeIFY8E=\""
+          "Value": "\"Xsh+EJmoRrUKQ1kxQ+KimokQcWesov9nR5AUTGVvFq4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 11 Jun 2026 18:38:03 GMT"
+          "Value": "Thu, 11 Jun 2026 20:08:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1474,7 +1495,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hblnrv21dd"
+          "Value": "ynkn04vu1l"
         },
         {
           "Name": "label",
@@ -1482,7 +1503,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-U/1zANi9xQWZfIdpqCGCO0xxrr8MPAG+4X4zUeIFY8E="
+          "Value": "sha256-Xsh+EJmoRrUKQ1kxQ+KimokQcWesov9nR5AUTGVvFq4="
         }
       ]
     },
@@ -1815,8 +1836,8 @@
       ]
     },
     {
-      "Route": "img/banner4.patirqnqn3.png",
-      "AssetFile": "C:\\Users\\matheus.feitosa\\Documents\\Bradesco\\Eja\\projeto-ejacast\\wwwroot\\img\\banner4.png",
+      "Route": "img/banner4_old.patirqnqn3.png",
+      "AssetFile": "C:\\Users\\matheus.feitosa\\Documents\\Bradesco\\Eja\\projeto-ejacast\\wwwroot\\img\\banner4_old.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1851,7 +1872,7 @@
         },
         {
           "Name": "label",
-          "Value": "img/banner4.png"
+          "Value": "img/banner4_old.png"
         },
         {
           "Name": "integrity",
@@ -1860,8 +1881,8 @@
       ]
     },
     {
-      "Route": "img/banner4.png",
-      "AssetFile": "C:\\Users\\matheus.feitosa\\Documents\\Bradesco\\Eja\\projeto-ejacast\\wwwroot\\img\\banner4.png",
+      "Route": "img/banner4_old.png",
+      "AssetFile": "C:\\Users\\matheus.feitosa\\Documents\\Bradesco\\Eja\\projeto-ejacast\\wwwroot\\img\\banner4_old.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1893,6 +1914,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-0fc1c30y84Y3narnjhe7OqRL9hF8dCA+aVnKK9ZxO9Q="
+        }
+      ]
+    },
+    {
+      "Route": "img/banner4.6blfintzt3.png",
+      "AssetFile": "C:\\Users\\matheus.feitosa\\Documents\\Bradesco\\Eja\\projeto-ejacast\\wwwroot\\img\\banner4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "152146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ordtzMob0WwymDV8BVP02rpScpZNqtYGZZi37qNPqAU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2026 19:37:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6blfintzt3"
+        },
+        {
+          "Name": "label",
+          "Value": "img/banner4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ordtzMob0WwymDV8BVP02rpScpZNqtYGZZi37qNPqAU="
+        }
+      ]
+    },
+    {
+      "Route": "img/banner4.png",
+      "AssetFile": "C:\\Users\\matheus.feitosa\\Documents\\Bradesco\\Eja\\projeto-ejacast\\wwwroot\\img\\banner4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "152146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ordtzMob0WwymDV8BVP02rpScpZNqtYGZZi37qNPqAU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Jun 2026 19:37:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ordtzMob0WwymDV8BVP02rpScpZNqtYGZZi37qNPqAU="
         }
       ]
     },

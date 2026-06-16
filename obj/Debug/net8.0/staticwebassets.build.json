@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BpypY8GeRM9jQrFZMjszCzojm+5YaQj4y+HPzgRsLBI=",
+  "Hash": "oxaIVz7UPewzdET8DdcFsR4pmFb56rMvnPMBE5CxAgs=",
   "Source": "ProjetoEjaCast",
   "BasePath": "_content/ProjetoEjaCast",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\episodidos.css"
+    },
+    {
+      "Identity": "C:\\Users\\10607.115\\projeto-ejacast-1\\wwwroot\\css\\index.css",
+      "SourceId": "ProjetoEjaCast",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\10607.115\\projeto-ejacast-1\\wwwroot\\",
+      "BasePath": "_content/ProjetoEjaCast",
+      "RelativePath": "css/index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\index.css"
     },
     {
       "Identity": "C:\\Users\\10607.115\\projeto-ejacast-1\\wwwroot\\css\\layout.css",
@@ -264,12 +283,12 @@
       "OriginalItemSpec": "wwwroot\\img\\banner4.png"
     },
     {
-      "Identity": "C:\\Users\\10607.115\\projeto-ejacast-1\\wwwroot\\img\\turma-eja.jpg",
+      "Identity": "C:\\Users\\10607.115\\projeto-ejacast-1\\wwwroot\\img\\brayanFt.jpg",
       "SourceId": "ProjetoEjaCast",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\10607.115\\projeto-ejacast-1\\wwwroot\\",
       "BasePath": "_content/ProjetoEjaCast",
-      "RelativePath": "img/turma-eja.jpg",
+      "RelativePath": "img/brayanFt.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -280,7 +299,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\turma-eja.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\brayanFt.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\10607.115\\projeto-ejacast-1\\wwwroot\\img\\turma-eja.jpeg",
+      "SourceId": "ProjetoEjaCast",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\10607.115\\projeto-ejacast-1\\wwwroot\\",
+      "BasePath": "_content/ProjetoEjaCast",
+      "RelativePath": "img/turma-eja.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\turma-eja.jpeg"
     },
     {
       "Identity": "C:\\Users\\10607.115\\projeto-ejacast-1\\wwwroot\\js\\site.js",

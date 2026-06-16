@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\css\\episodidos.css"
     },
     {
+      "Id": "C:\\Users\\10607.115\\projeto-ejacast-1\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
       "Id": "C:\\Users\\10607.115\\projeto-ejacast-1\\wwwroot\\css\\layout.css",
       "PackagePath": "staticwebassets\\css\\layout.css"
     },
@@ -49,8 +53,12 @@
       "PackagePath": "staticwebassets\\img\\banner4_old.png"
     },
     {
-      "Id": "C:\\Users\\10607.115\\projeto-ejacast-1\\wwwroot\\img\\turma-eja.jpg",
-      "PackagePath": "staticwebassets\\img\\turma-eja.jpg"
+      "Id": "C:\\Users\\10607.115\\projeto-ejacast-1\\wwwroot\\img\\brayanFt.jpg",
+      "PackagePath": "staticwebassets\\img\\brayanFt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\10607.115\\projeto-ejacast-1\\wwwroot\\img\\turma-eja.jpeg",
+      "PackagePath": "staticwebassets\\img\\turma-eja.jpeg"
     },
     {
       "Id": "C:\\Users\\10607.115\\projeto-ejacast-1\\wwwroot\\js\\site.js",
